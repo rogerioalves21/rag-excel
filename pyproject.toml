@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "rag-excel"
+version = "1.0.1.0"
+description = ""
+authors = ["rogerio.rodrigues <Sicoob131>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = {extras = ["standard"], version = "^0.114.0"}
+ollama = "^0.3.2"
+pandas = "^2.2.2"
+openpyxl = "^3.1.5"
+humps = "^0.2.2"
+python-calamine = "^0.2.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

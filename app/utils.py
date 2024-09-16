@@ -1,0 +1,4 @@
+
+cors_origins = [
+    "*"
+]
