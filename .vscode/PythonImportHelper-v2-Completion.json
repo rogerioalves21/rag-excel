@@ -1,0 +1,1203 @@
+[
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Final",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationPayload",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationPayload",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "ollama",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ollama",
+        "description": "ollama",
+        "detail": "ollama",
+        "documentation": {}
+    },
+    {
+        "label": "ChatResponse",
+        "importPath": "ollama",
+        "description": "ollama",
+        "isExtraImport": true,
+        "detail": "ollama",
+        "documentation": {}
+    },
+    {
+        "label": "DataAnalysisService",
+        "importPath": "app.services.data_analysis_service",
+        "description": "app.services.data_analysis_service",
+        "isExtraImport": true,
+        "detail": "app.services.data_analysis_service",
+        "documentation": {}
+    },
+    {
+        "label": "DataAnalysisService",
+        "importPath": "app.services.data_analysis_service",
+        "description": "app.services.data_analysis_service",
+        "isExtraImport": true,
+        "detail": "app.services.data_analysis_service",
+        "documentation": {}
+    },
+    {
+        "label": "FilesService",
+        "importPath": "app.services.file_service",
+        "description": "app.services.file_service",
+        "isExtraImport": true,
+        "detail": "app.services.file_service",
+        "documentation": {}
+    },
+    {
+        "label": "FilesService",
+        "importPath": "app.services.file_service",
+        "description": "app.services.file_service",
+        "isExtraImport": true,
+        "detail": "app.services.file_service",
+        "documentation": {}
+    },
+    {
+        "label": "FilesService",
+        "importPath": "app.services.file_service",
+        "description": "app.services.file_service",
+        "isExtraImport": true,
+        "detail": "app.services.file_service",
+        "documentation": {}
+    },
+    {
+        "label": "PromptService",
+        "importPath": "app.services.prompt_service",
+        "description": "app.services.prompt_service",
+        "isExtraImport": true,
+        "detail": "app.services.prompt_service",
+        "documentation": {}
+    },
+    {
+        "label": "PromptService",
+        "importPath": "app.services.prompt_service",
+        "description": "app.services.prompt_service",
+        "isExtraImport": true,
+        "detail": "app.services.prompt_service",
+        "documentation": {}
+    },
+    {
+        "label": "data_analysis",
+        "importPath": "app.api.routes",
+        "description": "app.api.routes",
+        "isExtraImport": true,
+        "detail": "app.api.routes",
+        "documentation": {}
+    },
+    {
+        "label": "files",
+        "importPath": "app.api.routes",
+        "description": "app.api.routes",
+        "isExtraImport": true,
+        "detail": "app.api.routes",
+        "documentation": {}
+    },
+    {
+        "label": "ollama",
+        "importPath": "app.api.routes",
+        "description": "app.api.routes",
+        "isExtraImport": true,
+        "detail": "app.api.routes",
+        "documentation": {}
+    },
+    {
+        "label": "chat",
+        "importPath": "app.api.routes",
+        "description": "app.api.routes",
+        "isExtraImport": true,
+        "detail": "app.api.routes",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCleaner",
+        "importPath": "app.cleaner.cleaner_base",
+        "description": "app.cleaner.cleaner_base",
+        "isExtraImport": true,
+        "detail": "app.cleaner.cleaner_base",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "PARAGRAPH_PATTERN",
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "isExtraImport": true,
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "PARAGRAPH_PATTERN_RE",
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "isExtraImport": true,
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "DOUBLE_PARAGRAPH_PATTERN_RE",
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "isExtraImport": true,
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "UNICODE_BULLETS_RE",
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "isExtraImport": true,
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "E_BULLET_PATTERN",
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "isExtraImport": true,
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "UNICODE_BULLETS_RE_0W",
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "isExtraImport": true,
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "TWO_OR_MORE_SPACES_NOT_NEW_LINE",
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "isExtraImport": true,
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "PARAGRAPH_PATTERN",
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "isExtraImport": true,
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "PARAGRAPH_PATTERN_RE",
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "isExtraImport": true,
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "DOUBLE_PARAGRAPH_PATTERN_RE",
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "isExtraImport": true,
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "UNICODE_BULLETS_RE",
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "isExtraImport": true,
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "E_BULLET_PATTERN",
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "isExtraImport": true,
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "UNICODE_BULLETS_RE_0W",
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "isExtraImport": true,
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "codecs",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "codecs",
+        "description": "codecs",
+        "detail": "codecs",
+        "documentation": {}
+    },
+    {
+        "label": "formatar_nome_arquivo",
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "isExtraImport": true,
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "remover_caracteres_nulos",
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "isExtraImport": true,
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "xlsx_to_txt",
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "isExtraImport": true,
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "xlsx_to_md",
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "isExtraImport": true,
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "xlsx_to_csv",
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "isExtraImport": true,
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "cors_origins",
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "isExtraImport": true,
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "fastapi.staticfiles",
+        "description": "fastapi.staticfiles",
+        "isExtraImport": true,
+        "detail": "fastapi.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "api_router",
+        "importPath": "app.api.main",
+        "description": "app.api.main",
+        "isExtraImport": true,
+        "detail": "app.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "APIRoute",
+        "importPath": "fastapi.routing",
+        "description": "fastapi.routing",
+        "isExtraImport": true,
+        "detail": "fastapi.routing",
+        "documentation": {}
+    },
+    {
+        "label": "camel",
+        "importPath": "humps",
+        "description": "humps",
+        "isExtraImport": true,
+        "detail": "humps",
+        "documentation": {}
+    },
+    {
+        "label": "AgrupadorParagrafosCleaner",
+        "importPath": "app.cleaner.agrupador_paragrafos_cleaner",
+        "description": "app.cleaner.agrupador_paragrafos_cleaner",
+        "isExtraImport": true,
+        "detail": "app.cleaner.agrupador_paragrafos_cleaner",
+        "documentation": {}
+    },
+    {
+        "label": "PdfToTextExtrator",
+        "importPath": "app.extractors.pdf_to_text",
+        "description": "app.extractors.pdf_to_text",
+        "isExtraImport": true,
+        "detail": "app.extractors.pdf_to_text",
+        "documentation": {}
+    },
+    {
+        "label": "Documento",
+        "importPath": "app.extractors.pdf_to_text",
+        "description": "app.extractors.pdf_to_text",
+        "isExtraImport": true,
+        "detail": "app.extractors.pdf_to_text",
+        "documentation": {}
+    },
+    {
+        "label": "print",
+        "importPath": "rich",
+        "description": "rich",
+        "isExtraImport": true,
+        "detail": "rich",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.api.routes.chat",
+        "description": "app.api.routes.chat",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nrouter = APIRouter()\ndef __stream_call(__filename: str, __mensagem: str):\n    __data_service = DataAnalysisService()\n    __files_service = FilesService()\n    __prompt_service = PromptService()\n    __context = __files_service.get_content(__filename)\n    __query = __data_service.chat_with_text_file(__context, __mensagem)\n    __query = __query[:4096]\n    print(__query)",
+        "detail": "app.api.routes.chat",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.routes.chat",
+        "description": "app.api.routes.chat",
+        "peekOfCode": "router = APIRouter()\ndef __stream_call(__filename: str, __mensagem: str):\n    __data_service = DataAnalysisService()\n    __files_service = FilesService()\n    __prompt_service = PromptService()\n    __context = __files_service.get_content(__filename)\n    __query = __data_service.chat_with_text_file(__context, __mensagem)\n    __query = __query[:4096]\n    print(__query)\n    for part in ollama.chat(",
+        "detail": "app.api.routes.chat",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.api.routes.data_analysis",
+        "description": "app.api.routes.data_analysis",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nrouter = APIRouter()\ndef __fake_data(__mensagem: str) -> ChatResponse:\n    __data_service = DataAnalysisService()\n    __query, __propt = __data_service.chat(__mensagem)\n    print(__query, __propt)\n    return ollama.chat(\n        model='kuqoi/qwen2-tools',\n        messages=[\n            {'role': 'system', 'content': __propt},",
+        "detail": "app.api.routes.data_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.routes.data_analysis",
+        "description": "app.api.routes.data_analysis",
+        "peekOfCode": "router = APIRouter()\ndef __fake_data(__mensagem: str) -> ChatResponse:\n    __data_service = DataAnalysisService()\n    __query, __propt = __data_service.chat(__mensagem)\n    print(__query, __propt)\n    return ollama.chat(\n        model='kuqoi/qwen2-tools',\n        messages=[\n            {'role': 'system', 'content': __propt},\n            {'role': 'user', 'content': __query}",
+        "detail": "app.api.routes.data_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.api.routes.files",
+        "description": "app.api.routes.files",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nrouter = APIRouter()\n@router.post(\"/files\")\nasync def upload_files(files: list[UploadFile]) -> Any:\n    __files_service = FilesService()\n    await __files_service.save_content(files)\n    return Response(status_code=200)",
+        "detail": "app.api.routes.files",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.routes.files",
+        "description": "app.api.routes.files",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/files\")\nasync def upload_files(files: list[UploadFile]) -> Any:\n    __files_service = FilesService()\n    await __files_service.save_content(files)\n    return Response(status_code=200)",
+        "detail": "app.api.routes.files",
+        "documentation": {}
+    },
+    {
+        "label": "tags",
+        "kind": 2,
+        "importPath": "app.api.routes.ollama",
+        "description": "app.api.routes.ollama",
+        "peekOfCode": "def tags() -> Any:\n    return _list()\n@router.get(\"/pull\")\ndef tags(model: Union[str, None] = None) -> Any:\n    return StreamingResponse(\n        content=__pull_streamer(model.strip()),\n        media_type='text/event-stream'\n    )",
+        "detail": "app.api.routes.ollama",
+        "documentation": {}
+    },
+    {
+        "label": "tags",
+        "kind": 2,
+        "importPath": "app.api.routes.ollama",
+        "description": "app.api.routes.ollama",
+        "peekOfCode": "def tags(model: Union[str, None] = None) -> Any:\n    return StreamingResponse(\n        content=__pull_streamer(model.strip()),\n        media_type='text/event-stream'\n    )",
+        "detail": "app.api.routes.ollama",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.api.routes.ollama",
+        "description": "app.api.routes.ollama",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nrouter = APIRouter()\ndef __pull_streamer(__model: str):\n    for part in ollama.pull(\n        model=__model,\n        stream=True\n    ): yield part['status']\ndef _list():\n    return ollama.list()\n@router.get(\"/list\")",
+        "detail": "app.api.routes.ollama",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.routes.ollama",
+        "description": "app.api.routes.ollama",
+        "peekOfCode": "router = APIRouter()\ndef __pull_streamer(__model: str):\n    for part in ollama.pull(\n        model=__model,\n        stream=True\n    ): yield part['status']\ndef _list():\n    return ollama.list()\n@router.get(\"/list\")\ndef tags() -> Any:",
+        "detail": "app.api.routes.ollama",
+        "documentation": {}
+    },
+    {
+        "label": "api_router",
+        "kind": 5,
+        "importPath": "app.api.main",
+        "description": "app.api.main",
+        "peekOfCode": "api_router = APIRouter()\napi_router.include_router(ollama.router, tags=[\"ollama\"])\napi_router.include_router(files.router, tags=[\"files\"])\napi_router.include_router(data_analysis.router, tags=[\"data-analysis\"])\napi_router.include_router(chat.router, tags=[\"chat\"])",
+        "detail": "app.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "AgrupadorParagrafosCleaner",
+        "kind": 6,
+        "importPath": "app.cleaner.agrupador_paragrafos_cleaner",
+        "description": "app.cleaner.agrupador_paragrafos_cleaner",
+        "peekOfCode": "class AgrupadorParagrafosCleaner(BaseCleaner):\n    def _group_bullet_paragraph(self, paragraph: str) -> list:\n        \"\"\"Groups paragraphs with bullets that have line breaks for visual/formatting purposes.\n        For example:\n        '''○ The big red fox\n        is walking down the lane.\n        ○ At the end of the lane\n        the fox met a friendly bear.'''\n        Gets converted to\n        '''○ The big red fox is walking down the lane.",
+        "detail": "app.cleaner.agrupador_paragrafos_cleaner",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCleaner",
+        "kind": 6,
+        "importPath": "app.cleaner.cleaner_base",
+        "description": "app.cleaner.cleaner_base",
+        "peekOfCode": "class BaseCleaner(ABC):\n    \"\"\"Interface for clean chunk content.\"\"\"\n    @abstractmethod\n    def clean(self, content: str):\n        raise NotImplementedError",
+        "detail": "app.cleaner.cleaner_base",
+        "documentation": {}
+    },
+    {
+        "label": "BULLETS_PATTERN",
+        "kind": 5,
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "peekOfCode": "BULLETS_PATTERN = \"|\".join(UNICODE_BULLETS)\nPARAGRAPH_PATTERN = r\"\\s*\\n\\s*\"\nNEW_PARAGRAPH_PATTERN = r\"[\\n]{1,}|[\\r\\n]{1,}\"\nPARAGRAPH_PATTERN_RE = re.compile(\n    f\"((?:{BULLETS_PATTERN})|{PARAGRAPH_PATTERN})(?!{BULLETS_PATTERN}|$)\",\n)\n# DOUBLE_PARAGRAPH_PATTERN_RE = re.compile(\"(\" + PARAGRAPH_PATTERN + \"){2}\")\nDOUBLE_PARAGRAPH_PATTERN_RE = NEW_PARAGRAPH_PATTERN\nUNICODE_BULLETS_RE = re.compile(f\"(?:{BULLETS_PATTERN})(?!{BULLETS_PATTERN})\")\nE_BULLET_PATTERN = re.compile(r\"^e(?=\\s)\", re.MULTILINE)",
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "PARAGRAPH_PATTERN",
+        "kind": 5,
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "peekOfCode": "PARAGRAPH_PATTERN = r\"\\s*\\n\\s*\"\nNEW_PARAGRAPH_PATTERN = r\"[\\n]{1,}|[\\r\\n]{1,}\"\nPARAGRAPH_PATTERN_RE = re.compile(\n    f\"((?:{BULLETS_PATTERN})|{PARAGRAPH_PATTERN})(?!{BULLETS_PATTERN}|$)\",\n)\n# DOUBLE_PARAGRAPH_PATTERN_RE = re.compile(\"(\" + PARAGRAPH_PATTERN + \"){2}\")\nDOUBLE_PARAGRAPH_PATTERN_RE = NEW_PARAGRAPH_PATTERN\nUNICODE_BULLETS_RE = re.compile(f\"(?:{BULLETS_PATTERN})(?!{BULLETS_PATTERN})\")\nE_BULLET_PATTERN = re.compile(r\"^e(?=\\s)\", re.MULTILINE)\nTWO_OR_MORE_SPACES_NOT_NEW_LINE = r\"[^\\S\\r\\n]{2,}\"",
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "NEW_PARAGRAPH_PATTERN",
+        "kind": 5,
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "peekOfCode": "NEW_PARAGRAPH_PATTERN = r\"[\\n]{1,}|[\\r\\n]{1,}\"\nPARAGRAPH_PATTERN_RE = re.compile(\n    f\"((?:{BULLETS_PATTERN})|{PARAGRAPH_PATTERN})(?!{BULLETS_PATTERN}|$)\",\n)\n# DOUBLE_PARAGRAPH_PATTERN_RE = re.compile(\"(\" + PARAGRAPH_PATTERN + \"){2}\")\nDOUBLE_PARAGRAPH_PATTERN_RE = NEW_PARAGRAPH_PATTERN\nUNICODE_BULLETS_RE = re.compile(f\"(?:{BULLETS_PATTERN})(?!{BULLETS_PATTERN})\")\nE_BULLET_PATTERN = re.compile(r\"^e(?=\\s)\", re.MULTILINE)\nTWO_OR_MORE_SPACES_NOT_NEW_LINE = r\"[^\\S\\r\\n]{2,}\"\nUNICODE_BULLETS_RE_0W = re.compile(f\"(?={BULLETS_PATTERN})(?<!{BULLETS_PATTERN})\")",
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "PARAGRAPH_PATTERN_RE",
+        "kind": 5,
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "peekOfCode": "PARAGRAPH_PATTERN_RE = re.compile(\n    f\"((?:{BULLETS_PATTERN})|{PARAGRAPH_PATTERN})(?!{BULLETS_PATTERN}|$)\",\n)\n# DOUBLE_PARAGRAPH_PATTERN_RE = re.compile(\"(\" + PARAGRAPH_PATTERN + \"){2}\")\nDOUBLE_PARAGRAPH_PATTERN_RE = NEW_PARAGRAPH_PATTERN\nUNICODE_BULLETS_RE = re.compile(f\"(?:{BULLETS_PATTERN})(?!{BULLETS_PATTERN})\")\nE_BULLET_PATTERN = re.compile(r\"^e(?=\\s)\", re.MULTILINE)\nTWO_OR_MORE_SPACES_NOT_NEW_LINE = r\"[^\\S\\r\\n]{2,}\"\nUNICODE_BULLETS_RE_0W = re.compile(f\"(?={BULLETS_PATTERN})(?<!{BULLETS_PATTERN})\")",
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "DOUBLE_PARAGRAPH_PATTERN_RE",
+        "kind": 5,
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "peekOfCode": "DOUBLE_PARAGRAPH_PATTERN_RE = NEW_PARAGRAPH_PATTERN\nUNICODE_BULLETS_RE = re.compile(f\"(?:{BULLETS_PATTERN})(?!{BULLETS_PATTERN})\")\nE_BULLET_PATTERN = re.compile(r\"^e(?=\\s)\", re.MULTILINE)\nTWO_OR_MORE_SPACES_NOT_NEW_LINE = r\"[^\\S\\r\\n]{2,}\"\nUNICODE_BULLETS_RE_0W = re.compile(f\"(?={BULLETS_PATTERN})(?<!{BULLETS_PATTERN})\")",
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "UNICODE_BULLETS_RE",
+        "kind": 5,
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "peekOfCode": "UNICODE_BULLETS_RE = re.compile(f\"(?:{BULLETS_PATTERN})(?!{BULLETS_PATTERN})\")\nE_BULLET_PATTERN = re.compile(r\"^e(?=\\s)\", re.MULTILINE)\nTWO_OR_MORE_SPACES_NOT_NEW_LINE = r\"[^\\S\\r\\n]{2,}\"\nUNICODE_BULLETS_RE_0W = re.compile(f\"(?={BULLETS_PATTERN})(?<!{BULLETS_PATTERN})\")",
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "E_BULLET_PATTERN",
+        "kind": 5,
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "peekOfCode": "E_BULLET_PATTERN = re.compile(r\"^e(?=\\s)\", re.MULTILINE)\nTWO_OR_MORE_SPACES_NOT_NEW_LINE = r\"[^\\S\\r\\n]{2,}\"\nUNICODE_BULLETS_RE_0W = re.compile(f\"(?={BULLETS_PATTERN})(?<!{BULLETS_PATTERN})\")",
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "TWO_OR_MORE_SPACES_NOT_NEW_LINE",
+        "kind": 5,
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "peekOfCode": "TWO_OR_MORE_SPACES_NOT_NEW_LINE = r\"[^\\S\\r\\n]{2,}\"\nUNICODE_BULLETS_RE_0W = re.compile(f\"(?={BULLETS_PATTERN})(?<!{BULLETS_PATTERN})\")",
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "UNICODE_BULLETS_RE_0W",
+        "kind": 5,
+        "importPath": "app.cleaner.helper",
+        "description": "app.cleaner.helper",
+        "peekOfCode": "UNICODE_BULLETS_RE_0W = re.compile(f\"(?={BULLETS_PATTERN})(?<!{BULLETS_PATTERN})\")",
+        "detail": "app.cleaner.helper",
+        "documentation": {}
+    },
+    {
+        "label": "Documento",
+        "kind": 6,
+        "importPath": "app.extractors.pdf_to_text",
+        "description": "app.extractors.pdf_to_text",
+        "peekOfCode": "class Documento(BaseModel):\n    \"\"\"Classe para textos e metadatas.\"\"\"\n    conteudo: str\n    metadata: Optional[dict] = Field(default_factory=dict)\nclass AbstractExtrator(ABC):\n    \"\"\"Interface para extração de textos.\n    \"\"\"\n    @abstractmethod\n    def extrair_texto(self) -> Documento:\n        raise NotImplementedError",
+        "detail": "app.extractors.pdf_to_text",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractExtrator",
+        "kind": 6,
+        "importPath": "app.extractors.pdf_to_text",
+        "description": "app.extractors.pdf_to_text",
+        "peekOfCode": "class AbstractExtrator(ABC):\n    \"\"\"Interface para extração de textos.\n    \"\"\"\n    @abstractmethod\n    def extrair_texto(self) -> Documento:\n        raise NotImplementedError\nclass PdfToTextExtrator(AbstractExtrator):\n    \"\"\" Extrai texto do PDF no layout mais próximo ao original \"\"\"\n    def extrair_texto(self, _arquivo: str) -> Documento:\n        # if not os.path.isfile(_arquivo): raise RuntimeError(f\"O arquivo informado não existe! -> {_arquivo}\")",
+        "detail": "app.extractors.pdf_to_text",
+        "documentation": {}
+    },
+    {
+        "label": "PdfToTextExtrator",
+        "kind": 6,
+        "importPath": "app.extractors.pdf_to_text",
+        "description": "app.extractors.pdf_to_text",
+        "peekOfCode": "class PdfToTextExtrator(AbstractExtrator):\n    \"\"\" Extrai texto do PDF no layout mais próximo ao original \"\"\"\n    def extrair_texto(self, _arquivo: str) -> Documento:\n        # if not os.path.isfile(_arquivo): raise RuntimeError(f\"O arquivo informado não existe! -> {_arquivo}\")\n        # _is_windows = os.name == 'nt'\n        # if _is_windows: raise RuntimeError(\"pdftotext não existe no windows!\")\n        if shutil.which('pdftotext'):\n            _cmd = [\"pdftotext\", \"-layout\", \"-nodiag\", \"-enc\", \"UTF-8\", \"-colspacing\", \"0.9\"]\n            # _cmd = [\"pdftotext\", \"-table\", \"-nodiag\", \"-enc\", \"UTF-8\"]\n            _cmd += [_arquivo, \"-\"]",
+        "detail": "app.extractors.pdf_to_text",
+        "documentation": {}
+    },
+    {
+        "label": "DataAnalysisService",
+        "kind": 6,
+        "importPath": "app.services.data_analysis_service",
+        "description": "app.services.data_analysis_service",
+        "peekOfCode": "class DataAnalysisService():\n    def __init__(self):\n        print('Data Analysis Service')\n        self.__prompt_service = PromptService()\n        self.__system_prompt = self.__prompt_service.get_system_prompt()\n        self.__analytic_prompt = self.__prompt_service.get_analytic_prompt()\n    def chat_with_text_file(self, __context: str, __query: str):\n            return F\"\"\"\n{self.__prompt_service.build_text_prompt(__context, __query)}\n\"\"\".strip()",
+        "detail": "app.services.data_analysis_service",
+        "documentation": {}
+    },
+    {
+        "label": "FilesService",
+        "kind": 6,
+        "importPath": "app.services.file_service",
+        "description": "app.services.file_service",
+        "peekOfCode": "class FilesService():\n    def __init__(self):\n        print('Files Service')\n        self.__files_path = '/home/rogerio_rodrigues/workspace/ragexcel/rag-excel/app/uploaded_files'\n    async def save_content_file(self, __file_path: str, __file_name: str) -> None:\n        __tabs = pd.read_excel(__file_path, engine=\"calamine\", sheet_name=None, parse_dates=True, date_format=\"%d/%M/%Y\", index_col=None)\n        __keys = __tabs.keys()\n        for __key in __keys:\n            __excel = __tabs[__key]\n            __content = remover_caracteres_nulos(__excel.to_csv())",
+        "detail": "app.services.file_service",
+        "documentation": {}
+    },
+    {
+        "label": "PromptService",
+        "kind": 6,
+        "importPath": "app.services.prompt_service",
+        "description": "app.services.prompt_service",
+        "peekOfCode": "class PromptService():\n    def __init__(self):\n        print('Prompt Service')\n        self.__prompts_file = '/home/rogerio_rodrigues/workspace/ragexcel/rag-excel/app/templates/prompts.yaml'\n    def get_system_prompt(self) -> Union[str, None]:\n        with open(self.__prompts_file, 'r', encoding='utf-8') as yamlfile:\n            __data = yaml.load(yamlfile, Loader=yaml.FullLoader)\n            return __data['app']['system_prompt']\n    def get_system_prompt_texto(self) -> Union[str, None]:\n        with open(self.__prompts_file, 'r', encoding='utf-8') as yamlfile:",
+        "detail": "app.services.prompt_service",
+        "documentation": {}
+    },
+    {
+        "label": "custom_generate_unique_id",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def custom_generate_unique_id(route: APIRoute) -> str:\n    return f\"{route.tags[0]}-{route.name}\"\napp = FastAPI(debug=False, title='rag-excel-backend-sisbr', generate_unique_id_function=custom_generate_unique_id)\napp.add_middleware(CORSMiddleware, allow_origins=cors_origins, allow_credentials=True, allow_methods=[\"*\"], allow_headers=[\"*\"])\napp.include_router(api_router, prefix=\"/api/v1\")",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI(debug=False, title='rag-excel-backend-sisbr', generate_unique_id_function=custom_generate_unique_id)\napp.add_middleware(CORSMiddleware, allow_origins=cors_origins, allow_credentials=True, allow_methods=[\"*\"], allow_headers=[\"*\"])\napp.include_router(api_router, prefix=\"/api/v1\")",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "CamelModel",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class CamelModel(BaseModel):\n    class Config:\n        alias_generator = to_camel\n        populate_by_name = True\nclass SignedUrls(BaseModel):\n    presigned_urls: Union[list[str] | None] = None\nclass PullResponse(CamelModel):\n    status: Union[str, None] = None\nclass FileRequest(CamelModel):\n    user_id: Union[str, None] = None",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "SignedUrls",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class SignedUrls(BaseModel):\n    presigned_urls: Union[list[str] | None] = None\nclass PullResponse(CamelModel):\n    status: Union[str, None] = None\nclass FileRequest(CamelModel):\n    user_id: Union[str, None] = None\n    file_name: Union[str, None] = None\n    feature: Union[str, None] = None\n    signed_url: Union[str, None] = None\nclass FileResponse(CamelModel):",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "PullResponse",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class PullResponse(CamelModel):\n    status: Union[str, None] = None\nclass FileRequest(CamelModel):\n    user_id: Union[str, None] = None\n    file_name: Union[str, None] = None\n    feature: Union[str, None] = None\n    signed_url: Union[str, None] = None\nclass FileResponse(CamelModel):\n    weaviate_id: Union[str, None] = None\n    user_id: Union[str, None] = None",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "FileRequest",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class FileRequest(CamelModel):\n    user_id: Union[str, None] = None\n    file_name: Union[str, None] = None\n    feature: Union[str, None] = None\n    signed_url: Union[str, None] = None\nclass FileResponse(CamelModel):\n    weaviate_id: Union[str, None] = None\n    user_id: Union[str, None] = None\n    file_name: Union[str, None] = None\n    feature: Union[str, None] = None",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "FileResponse",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class FileResponse(CamelModel):\n    weaviate_id: Union[str, None] = None\n    user_id: Union[str, None] = None\n    file_name: Union[str, None] = None\n    feature: Union[str, None] = None\n    status: Union[str, None] = None\n    error_detail: Union[str, None] = None\nclass User(BaseModel):\n    cooperativa: Union[str | None] = Field(..., alias='cooperativa')\n    email: Union[str | None] = Field(..., alias='email')",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class User(BaseModel):\n    cooperativa: Union[str | None] = Field(..., alias='cooperativa')\n    email: Union[str | None] = Field(..., alias='email')\n    login: Union[str | None] = Field(..., alias='login')\n    descricao: Union[str | None] =Field(..., alias='descricao')\n    cpf_cnpj: Union[str | None] = Field(..., alias='cpfCnpj')\n    instituicao_origem: Union[str | None] = Field(..., alias='instituicaoOrigem')\nclass UserControlServicePayload(BaseModel):\n    file_key: Union[str | None] = None\n    service: Union[str | None] = None",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserControlServicePayload",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class UserControlServicePayload(BaseModel):\n    file_key: Union[str | None] = None\n    service: Union[str | None] = None\nclass UserControlServiceResponse(BaseModel):\n    message: Union[str | None] = None\nclass DocumentContent(BaseModel):\n    _id: Union[str | None] = None\n    date_time: Union[str | None] = None\n    expireAt: Union[str | None] = None\n    embeddings: Union[list[list[float]] | None] = None",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserControlServiceResponse",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class UserControlServiceResponse(BaseModel):\n    message: Union[str | None] = None\nclass DocumentContent(BaseModel):\n    _id: Union[str | None] = None\n    date_time: Union[str | None] = None\n    expireAt: Union[str | None] = None\n    embeddings: Union[list[list[float]] | None] = None\n    file_content: Union[str | None] = None\n    file_key: Union[str | None] = None\n    service: Union[str | None] = None",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentContent",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class DocumentContent(BaseModel):\n    _id: Union[str | None] = None\n    date_time: Union[str | None] = None\n    expireAt: Union[str | None] = None\n    embeddings: Union[list[list[float]] | None] = None\n    file_content: Union[str | None] = None\n    file_key: Union[str | None] = None\n    service: Union[str | None] = None\n    user_id: Union[str | None] = None\nclass CheckDocumentsPayload(BaseModel):",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "CheckDocumentsPayload",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class CheckDocumentsPayload(BaseModel):\n    file_key: Union[str | None] = None\n    service: Union[str | None] = None\nclass CheckDocumentsResponse(BaseModel):\n    count: Union[int | None] = None\n    documents: Union[list[DocumentContent] | None] = None\nclass DescriptionModel(BaseModel):\n    type: Union[str | None] = None\n    description: Union[str | None] = None\nclass PropertiesModel(BaseModel):",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "CheckDocumentsResponse",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class CheckDocumentsResponse(BaseModel):\n    count: Union[int | None] = None\n    documents: Union[list[DocumentContent] | None] = None\nclass DescriptionModel(BaseModel):\n    type: Union[str | None] = None\n    description: Union[str | None] = None\nclass PropertiesModel(BaseModel):\n    question: Union[DescriptionModel | None] = None\n    service: Union[DescriptionModel | None] = None\n    model: Union[DescriptionModel | None] = None",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "DescriptionModel",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class DescriptionModel(BaseModel):\n    type: Union[str | None] = None\n    description: Union[str | None] = None\nclass PropertiesModel(BaseModel):\n    question: Union[DescriptionModel | None] = None\n    service: Union[DescriptionModel | None] = None\n    model: Union[DescriptionModel | None] = None\nclass SourceModel(BaseModel):\n    name: Union[str | None] = None\n    link: Union[str | None] = None",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "PropertiesModel",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class PropertiesModel(BaseModel):\n    question: Union[DescriptionModel | None] = None\n    service: Union[DescriptionModel | None] = None\n    model: Union[DescriptionModel | None] = None\nclass SourceModel(BaseModel):\n    name: Union[str | None] = None\n    link: Union[str | None] = None\n    page: Union[int | None] = 0\n    summary: Union[str | None] = 0\n    topic_suggestions: Union[str, None] = None",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "SourceModel",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class SourceModel(BaseModel):\n    name: Union[str | None] = None\n    link: Union[str | None] = None\n    page: Union[int | None] = 0\n    summary: Union[str | None] = 0\n    topic_suggestions: Union[str, None] = None\nclass ConversationPayload(BaseModel):\n    type: Union[str | None] = None\n    start_date: Union[str | None] = None\n    end_date: Union[str | None] = None",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationPayload",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class ConversationPayload(BaseModel):\n    type: Union[str | None] = None\n    start_date: Union[str | None] = None\n    end_date: Union[str | None] = None\n    properties: Union[PropertiesModel | None] = None\n    file_name: Union[str | None] = None\nclass ConversationResponse(BaseModel):\n    data: Union[str | None] = None\n    success: bool = True\nclass NormativosResponse(BaseModel):",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationResponse",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class ConversationResponse(BaseModel):\n    data: Union[str | None] = None\n    success: bool = True\nclass NormativosResponse(BaseModel):\n    message: Union[str | None] = None\n    documents: Union[List | None] = None",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "NormativosResponse",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class NormativosResponse(BaseModel):\n    message: Union[str | None] = None\n    documents: Union[List | None] = None",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "to_camel",
+        "kind": 2,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "def to_camel(string):\n    return camel.case(string)\nclass CamelModel(BaseModel):\n    class Config:\n        alias_generator = to_camel\n        populate_by_name = True\nclass SignedUrls(BaseModel):\n    presigned_urls: Union[list[str] | None] = None\nclass PullResponse(CamelModel):\n    status: Union[str, None] = None",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "xlsx_to_txt",
+        "kind": 2,
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "peekOfCode": "def xlsx_to_txt(__nome_arquivo: str, __tab: str) -> str:\n    return __nome_arquivo.replace('.xlsx', f'_{__tab}.txt')\ndef xlsx_to_md(__nome_arquivo: str, __tab: str) -> str:\n    return __nome_arquivo.replace('.xlsx', f'_{__tab}.md')\ndef xlsx_to_csv(__nome_arquivo: str, __tab: str) -> str:\n    return __nome_arquivo.replace('.xlsx', f'_{__tab}.csv')\ndef formatar_nome_arquivo(__nome_arquivo: str) -> str:\n    __nome_arquivo = __nome_arquivo.replace(' ', '_')\n    return re.sub(r\"[^a-zA-Z0-9\\._]\", \"\", __nome_arquivo)\ndef remover_caracteres_nulos(__conteudo: str) -> str:",
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "xlsx_to_md",
+        "kind": 2,
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "peekOfCode": "def xlsx_to_md(__nome_arquivo: str, __tab: str) -> str:\n    return __nome_arquivo.replace('.xlsx', f'_{__tab}.md')\ndef xlsx_to_csv(__nome_arquivo: str, __tab: str) -> str:\n    return __nome_arquivo.replace('.xlsx', f'_{__tab}.csv')\ndef formatar_nome_arquivo(__nome_arquivo: str) -> str:\n    __nome_arquivo = __nome_arquivo.replace(' ', '_')\n    return re.sub(r\"[^a-zA-Z0-9\\._]\", \"\", __nome_arquivo)\ndef remover_caracteres_nulos(__conteudo: str) -> str:\n    __content = re.sub('Unnamed: \\\\d{1,2}','          ', __conteudo)\n    __content = __content.replace('NaN', '   ')",
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "xlsx_to_csv",
+        "kind": 2,
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "peekOfCode": "def xlsx_to_csv(__nome_arquivo: str, __tab: str) -> str:\n    return __nome_arquivo.replace('.xlsx', f'_{__tab}.csv')\ndef formatar_nome_arquivo(__nome_arquivo: str) -> str:\n    __nome_arquivo = __nome_arquivo.replace(' ', '_')\n    return re.sub(r\"[^a-zA-Z0-9\\._]\", \"\", __nome_arquivo)\ndef remover_caracteres_nulos(__conteudo: str) -> str:\n    __content = re.sub('Unnamed: \\\\d{1,2}','          ', __conteudo)\n    __content = __content.replace('NaN', '   ')\n    __content = __content.replace('nan', '   ')\n    return __content",
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "formatar_nome_arquivo",
+        "kind": 2,
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "peekOfCode": "def formatar_nome_arquivo(__nome_arquivo: str) -> str:\n    __nome_arquivo = __nome_arquivo.replace(' ', '_')\n    return re.sub(r\"[^a-zA-Z0-9\\._]\", \"\", __nome_arquivo)\ndef remover_caracteres_nulos(__conteudo: str) -> str:\n    __content = re.sub('Unnamed: \\\\d{1,2}','          ', __conteudo)\n    __content = __content.replace('NaN', '   ')\n    __content = __content.replace('nan', '   ')\n    return __content",
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "remover_caracteres_nulos",
+        "kind": 2,
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "peekOfCode": "def remover_caracteres_nulos(__conteudo: str) -> str:\n    __content = re.sub('Unnamed: \\\\d{1,2}','          ', __conteudo)\n    __content = __content.replace('NaN', '   ')\n    __content = __content.replace('nan', '   ')\n    return __content",
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "cors_origins",
+        "kind": 5,
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "peekOfCode": "cors_origins = [\n    \"*\"\n]\ndef xlsx_to_txt(__nome_arquivo: str, __tab: str) -> str:\n    return __nome_arquivo.replace('.xlsx', f'_{__tab}.txt')\ndef xlsx_to_md(__nome_arquivo: str, __tab: str) -> str:\n    return __nome_arquivo.replace('.xlsx', f'_{__tab}.md')\ndef xlsx_to_csv(__nome_arquivo: str, __tab: str) -> str:\n    return __nome_arquivo.replace('.xlsx', f'_{__tab}.csv')\ndef formatar_nome_arquivo(__nome_arquivo: str) -> str:",
+        "detail": "app.utils",
+        "documentation": {}
+    }
+]
