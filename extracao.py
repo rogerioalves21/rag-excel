@@ -17,7 +17,7 @@ from app.cleaner.helper import (
 
 async def get_pdf_content() -> None:
     pdftotext = PdfToTextExtrator()
-    documento: Documento = pdftotext.extrair_texto('/home/rogerio_rodrigues/workspace/rag_python/files/pdfs/Pades_CREDIPEU370.949_001.pdf')
+    documento: Documento = pdftotext.extrair_texto('/home/rogerio_rodrigues/workspace/A.pdf')
     conteudo = documento.conteudo
     
     paginas = conteudo.split('\x0c')
@@ -38,7 +38,7 @@ async def get_pdf_content() -> None:
     paragrafo_cleaner = AgrupadorParagrafosCleaner()
     conteudo = paragrafo_cleaner.clean(conteudo)
     print(conteudo)
-    with codecs.open('Pades_CREDIPEU370.949_001.txt', 'w', encoding='UTF-8') as arquivo:
+    with codecs.open('A.txt', 'w', encoding='UTF-8') as arquivo:
         arquivo.write(conteudo)
     
 

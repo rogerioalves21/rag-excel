@@ -20,7 +20,7 @@ def __stream_call(__filename: str, __mensagem: str):
     __query = __query[:4096]
     print(__query)
     for part in ollama.chat(
-        model="gemma2:2b",
+        model="phi3.5",
         messages=[
             {'role': 'system', 'content': __prompt_service.get_system_prompt_texto()},
             {"role": "user", "content": __query[:4096]}
@@ -34,7 +34,7 @@ def __stream_call(__filename: str, __mensagem: str):
             "tfs_z": 2.0,
             "mirostat": 0,
             "repeat_last_n": 64,
-            "num_ctx": 4096,
+            "num_ctx": 2096,
             "num_predict": 1024,
             "low_vram": True,
             "top_k": 3,

@@ -1,0 +1,62 @@
+```
+      PJe - Processo Judicial Eletrônico
+       18/03/2024
+Número: 0702763-79.2024.8.07.0014
+Classe: PROCEDIMENTO COMUM CÍVEL
+Órgão julgador: Vara Cível do Guará
+Última distribuição : 15/03/2024
+Valor da causa: R$ 198.133,18
+Assuntos: Bancários
+Nível de Sigilo: 0 (Público)
+Justiça gratuita? NÃO
+Pedido de liminar ou antecipação de tutela? SIM
+             Partes                     Advogados
+MARISA DA COSTA BAPTISTA (AUTOR)
+                            LUCIANO ALCANTARA BOMM
+(ADVOGADO)
+BANCO PAN S.A (REU)
+BANCO COOPERATIVO DO BRASIL S/A (REU)
+NU PAGAMENTOS S.A. (REU)
+EAGLE SOCIEDADE DE CREDITO DIRETO S.A. (REU)
+                         Documentos
+  Id.   Data da   Documento                         
+Tipo
+      Assinatura
+190136530 15/03/2024   Petição Inicial                    
+Petição Inicial
+     14:51
+190136532 15/03/2024   2 Procuração                   Procuração/
+Substabelecimento
+     14:51
+190136533 15/03/2024   3 Declaração de hipossuficiência         Declaração
+de Hipossuficiência
+     14:51
+190136536 15/03/2024   4 Contracheque                    Outros
+Documentos
+     14:51
+190136539 15/03/2024   5 Empréstimo pessoal               Documento
+de Comprovação
+     14:51
+190136541 15/03/2024   6 Empréstimo consignado              Documento
+de Comprovação
+     14:51
+190136543 15/03/2024   7 Empréstimo consignado              Documento
+de Comprovação
+     14:51
+190138647 15/03/2024   8 Extrato bancário                  Outros
+Documentos
+     14:51
+190138650 15/03/2024   9 Extrato Nubank                   Outros
+Documentos
+     14:51
+190138667 15/03/2024   10 Documento pessoal               Documento
+de Identificação
+     14:51
+190207919 15/03/2024   Decisão                          
+Decisão
+     20:27
+
+```
+
+-----
+

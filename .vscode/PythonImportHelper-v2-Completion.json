@@ -683,6 +683,72 @@
         "documentation": {}
     },
     {
+        "label": "create_extraction_chain",
+        "importPath": "kor.extraction",
+        "description": "kor.extraction",
+        "isExtraImport": true,
+        "detail": "kor.extraction",
+        "documentation": {}
+    },
+    {
+        "label": "Object",
+        "importPath": "kor.nodes",
+        "description": "kor.nodes",
+        "isExtraImport": true,
+        "detail": "kor.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "kor.nodes",
+        "description": "kor.nodes",
+        "isExtraImport": true,
+        "detail": "kor.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "Number",
+        "importPath": "kor.nodes",
+        "description": "kor.nodes",
+        "isExtraImport": true,
+        "detail": "kor.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_ollama",
+        "description": "langchain_ollama",
+        "isExtraImport": true,
+        "detail": "langchain_ollama",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "get_openai_callback",
+        "importPath": "langchain_community.callbacks",
+        "description": "langchain_community.callbacks",
+        "isExtraImport": true,
+        "detail": "langchain_community.callbacks",
+        "documentation": {}
+    },
+    {
         "label": "AgrupadorParagrafosCleaner",
         "importPath": "app.cleaner.agrupador_paragrafos_cleaner",
         "description": "app.cleaner.agrupador_paragrafos_cleaner",
@@ -712,6 +778,42 @@
         "description": "rich",
         "isExtraImport": true,
         "detail": "rich",
+        "documentation": {}
+    },
+    {
+        "label": "pymupdf4llm",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymupdf4llm",
+        "description": "pymupdf4llm",
+        "detail": "pymupdf4llm",
+        "documentation": {}
+    },
+    {
+        "label": "pymupdf",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymupdf",
+        "description": "pymupdf",
+        "detail": "pymupdf",
+        "documentation": {}
+    },
+    {
+        "label": "pathlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "sys;",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys;",
+        "description": "sys;",
+        "detail": "sys;",
         "documentation": {}
     },
     {
@@ -1198,6 +1300,114 @@
         "description": "app.utils",
         "peekOfCode": "cors_origins = [\n    \"*\"\n]\ndef xlsx_to_txt(__nome_arquivo: str, __tab: str) -> str:\n    return __nome_arquivo.replace('.xlsx', f'_{__tab}.txt')\ndef xlsx_to_md(__nome_arquivo: str, __tab: str) -> str:\n    return __nome_arquivo.replace('.xlsx', f'_{__tab}.md')\ndef xlsx_to_csv(__nome_arquivo: str, __tab: str) -> str:\n    return __nome_arquivo.replace('.xlsx', f'_{__tab}.csv')\ndef formatar_nome_arquivo(__nome_arquivo: str) -> str:",
         "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "getFileContent",
+        "kind": 2,
+        "importPath": "campos_extract",
+        "description": "campos_extract",
+        "peekOfCode": "def getFileContent():\n    with open('50059699220248210038.txt', 'r', encoding='UTF-8') as file:\n        return file.read()\ndef printOutput(output):\n    print(json.dumps(output, sort_keys=True, indent=3))\nllm = ChatOllama(\n    model = \"nemotron-mini\",  \n    temperature = 0,\n    num_ctx = 2048,\n    num_predict = 512,",
+        "detail": "campos_extract",
+        "documentation": {}
+    },
+    {
+        "label": "printOutput",
+        "kind": 2,
+        "importPath": "campos_extract",
+        "description": "campos_extract",
+        "peekOfCode": "def printOutput(output):\n    print(json.dumps(output, sort_keys=True, indent=3))\nllm = ChatOllama(\n    model = \"nemotron-mini\",  \n    temperature = 0,\n    num_ctx = 2048,\n    num_predict = 512,\n    keep_alive=\"15m0s\",\n)\njuridico_schema = Object(",
+        "detail": "campos_extract",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "campos_extract",
+        "description": "campos_extract",
+        "peekOfCode": "llm = ChatOllama(\n    model = \"nemotron-mini\",  \n    temperature = 0,\n    num_ctx = 2048,\n    num_predict = 512,\n    keep_alive=\"15m0s\",\n)\njuridico_schema = Object(\n    id=\"processo\",\n    description=\"Informações sobre processos judiciais.\",",
+        "detail": "campos_extract",
+        "documentation": {}
+    },
+    {
+        "label": "juridico_schema",
+        "kind": 5,
+        "importPath": "campos_extract",
+        "description": "campos_extract",
+        "peekOfCode": "juridico_schema = Object(\n    id=\"processo\",\n    description=\"Informações sobre processos judiciais.\",\n    attributes=[\n        Text(\n            id=\"numero_processo\",\n            description=\"O número do processo.\",\n            examples=[\n                (\"Nº do processo 1002369-15.2024.8.18.0017\", \"1002369-15.2024.8.18.0017\"),\n                (\"Número: 0831105-76.2024.8.23.0010\", \"0831105-76.2024.8.23.0010\"),",
+        "detail": "campos_extract",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "kind": 5,
+        "importPath": "campos_extract",
+        "description": "campos_extract",
+        "peekOfCode": "chain = create_extraction_chain(llm, juridico_schema)\ntext = getFileContent()\n#print(chain.get_prompts()[0].format_prompt(text=text).to_string())\noutput = chain.invoke((text))[\"data\"]\nprintOutput(output)",
+        "detail": "campos_extract",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "kind": 5,
+        "importPath": "campos_extract",
+        "description": "campos_extract",
+        "peekOfCode": "text = getFileContent()\n#print(chain.get_prompts()[0].format_prompt(text=text).to_string())\noutput = chain.invoke((text))[\"data\"]\nprintOutput(output)",
+        "detail": "campos_extract",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "campos_extract",
+        "description": "campos_extract",
+        "peekOfCode": "output = chain.invoke((text))[\"data\"]\nprintOutput(output)",
+        "detail": "campos_extract",
+        "documentation": {}
+    },
+    {
+        "label": "#md_text",
+        "kind": 5,
+        "importPath": "mark",
+        "description": "mark",
+        "peekOfCode": "#md_text = pymupdf4llm.to_markdown(\"/home/rogerio_rodrigues/workspace/A.pdf\")\n#print(md_text)\n#import sys; sys.exit(0)\n# --------------------------------------------------------------------------\n# EXTRAÇÃO DE PDF PARA MARKDOWN\n# --------------------------------------------------------------------------\n# --------------------------------------------------------------------------\n# EXTRAÇÃO DE TXT PARA MARKDOWN\n# --------------------------------------------------------------------------\ndoc = pymupdf.open(\"A.txt\", filetype=\"txt\")",
+        "detail": "mark",
+        "documentation": {}
+    },
+    {
+        "label": "doc",
+        "kind": 5,
+        "importPath": "mark",
+        "description": "mark",
+        "peekOfCode": "doc = pymupdf.open(\"A.txt\", filetype=\"txt\")\nmd_txt = pymupdf4llm.to_markdown(doc, extract_words=True)\nprint(md_txt)\npathlib.Path(\"A.md\").write_bytes(md_txt.encode())\nimport sys; sys.exit(0)\n# --------------------------------------------------------------------------\n# EXTRAÇÃO DE TXT PARA MARKDOWN\n# --------------------------------------------------------------------------\n# now work with the markdown text, e.g. store as a UTF8-encoded file\n# pathlib.Path(\"Pades_CREDIPEU370.949.md\").write_bytes(md_text.encode())",
+        "detail": "mark",
+        "documentation": {}
+    },
+    {
+        "label": "md_txt",
+        "kind": 5,
+        "importPath": "mark",
+        "description": "mark",
+        "peekOfCode": "md_txt = pymupdf4llm.to_markdown(doc, extract_words=True)\nprint(md_txt)\npathlib.Path(\"A.md\").write_bytes(md_txt.encode())\nimport sys; sys.exit(0)\n# --------------------------------------------------------------------------\n# EXTRAÇÃO DE TXT PARA MARKDOWN\n# --------------------------------------------------------------------------\n# now work with the markdown text, e.g. store as a UTF8-encoded file\n# pathlib.Path(\"Pades_CREDIPEU370.949.md\").write_bytes(md_text.encode())\n#md_txt = pymupdf4llm.to_markdown(doc)",
+        "detail": "mark",
+        "documentation": {}
+    },
+    {
+        "label": "#md_txt",
+        "kind": 5,
+        "importPath": "mark",
+        "description": "mark",
+        "peekOfCode": "#md_txt = pymupdf4llm.to_markdown(doc)\n# write markdown string to some file\n#pathlib.Path(\"cci.md\").write_bytes(md_txt.encode())\nprint(\"FOI\")\n# https://github.com/search?q=repo%3Adiscourse%2Fdiscourse-ai+markdown&type=code",
+        "detail": "mark",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "tools",
+        "description": "tools",
+        "peekOfCode": "response = ollama.chat(\n    model='qwen2.5:3b',\n    messages=[{'role': 'user', 'content': \n        'What is the weather in Toronto?'}],\n\t\t# provide a weather checking tool to the model\n    tools=[{\n      'type': 'function',\n      'function': {\n        'name': 'get_current_weather',\n        'description': 'Get the current weather for a city',",
+        "detail": "tools",
         "documentation": {}
     }
 ]
